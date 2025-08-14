@@ -1,4 +1,3 @@
-.env
 !.env.example
-
-myapp\notes-app-4ea90-firebase-adminsdk-fbsvc-30b80c5395.json\
+myapp/notes-app-4ea90-firebase-adminsdk-fbsvc-30b80c5395.json
+.env
